@@ -14,7 +14,7 @@ This repository features:
 - Responsive Layouts: Designed with adaptability in mind, ensuring a seamless experience across devices.
 - Innovative UI Components: Incorporating creative elements for fresh, engaging user interfaces.
 - Consistent Updates: New PNGs added periodically, reflecting my journey and growth as a designer.
-- 
+  
 ## 📌Preview & Navigation
 Each design is available as a PNG file, organized for easy viewing and download. Check back often for the latest additions and feel free to explore each design in detail.
 
